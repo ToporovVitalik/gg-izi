@@ -11,9 +11,9 @@
             <h1>Это самый лучшый помошник к DOTE 2</h1>
             <nav>
               <p>Первое:</p>
-                 <a href="index.html">Закуп</a> 
+                 <a href="index.html">Кто такой менёр</a> 
               <p>Втарое:</p>
-                 <a href="second.html">Спасобности</a>
+                 <a href="second.html">закуп</a>
             </nav>
   </header>
   <main> 
