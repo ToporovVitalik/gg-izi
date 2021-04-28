@@ -16,5 +16,5 @@
                  <a href="second.html">закуп в середине игры за менёра</a>
             </nav>
   </header>
-  <nain>frdk;l
+  <nain> <h2>Кто такой менёр?</h2>
   </nain>
